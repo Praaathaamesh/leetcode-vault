@@ -15,7 +15,7 @@ Each solution includes:
 ## Progress Tracker
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|-----------|-------|----------|
-| 1 | Two Sum | Easy | Array/HashMap | |
+| 1 | Two Sum | Easy | Array/HashMap | [Solution for Two Sum](https://github.com/Praaathaamesh/leetcode-vault/tree/main/array) |
 | ... | ... | ... | ... | ... |
 
 ## Languages Used
