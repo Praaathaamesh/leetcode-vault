@@ -15,7 +15,6 @@ complexity:
     - O(n) time and O(1) space
 '''
 
-
 class Solution:
     def removeDuplicates(self, nums: list[int]) -> int:
         if not nums:
