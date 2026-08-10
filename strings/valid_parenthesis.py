@@ -9,12 +9,7 @@ Complexity:
 class Solution:
     def isValid(self, s: str):
         stack = []
-
-        closing_to_opening = {
-            ')': '(',
-            ']': '[',
-            '}': '{'
-        }
+        closing_to_opening = {')': '(', ']': '[', '}': '{'}
 
         for char in s:
             if char in closing_to_opening:
@@ -24,4 +19,4 @@ class Solution:
             else:
                 stack.append(char)
 
-            return len(stack) == 0
+        return len(stack) == 0
