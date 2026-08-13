@@ -1,6 +1,6 @@
 '''
 strategy to be used here:
-    - math pattern ()
+    - math pattern (divide by 3; reminder of 0, 1, or any other has a formula)
 
 complexity:
     - O(1) time and space
