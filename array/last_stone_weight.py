@@ -6,6 +6,8 @@ complexity:
     - O(n^2 logn) time and O(n or 1) space
 '''
 
+from typing import List
+
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
         while len(stones) > 1:
